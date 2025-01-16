@@ -7,5 +7,5 @@ Después de tantos años en este sector, he decidido dar un giro de 180 grados e
 
 ## Encuéntrame en:
 
-[![Web](https://img.icons8.com/material-outlined/24/000000/domain.png)](https://juangens.github.io/Juan_Martinez/)  
-[![LinkedIn](https://img.icons8.com/material-outlined/24/000000/linkedin.png)](https://www.linkedin.com/in/juan-martinez-63173363/)
+[![Web](https://img.icons8.com/ios/100/000000/domain.png)](https://juangens.github.io/Juan_Martinez/)  
+[![LinkedIn](https://img.icons8.com/ios/100/000000/linkedin.png)](https://www.linkedin.com/in/juan-martinez-63173363/)
