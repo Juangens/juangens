@@ -7,5 +7,5 @@ Después de tantos años en este sector, he decidido dar un giro de 180 grados e
 
 ## Encuéntrame en:
 
-[![Link](https://img.shields.io/badge/Links-moure.dev-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://juangens.github.io/Juan_Martinez/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/juan-martinez-63173363/)
+[![Link](https://juangens.github.io/Juan_Martinez/)
+[![LinkedIn](https://www.linkedin.com/in/juan-martinez-63173363/)
