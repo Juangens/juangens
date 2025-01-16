@@ -1,4 +1,4 @@
-# Hola, mi nombre esJuan Martinez 👋
+# Hola, mi nombre es Juan Martinez 👋
 ### Desarrollador de Aplicaciones Web
 
 Cuento con una amplia experiencia en logística, ya que he orientado toda mi carrera profesional en esta área, lo que me ha permitido comprender y controlar el proceso de importación y exportación desde su inicio hasta su finalización. Esta experiencia me ha capacitado para anticipar y resolver cualquier inconveniente que pueda surgir a lo largo de este proceso.
@@ -7,5 +7,5 @@ Después de tantos años en este sector, he decidido dar un giro de 180 grados e
 
 ## Encuéntrame en:
 
-[![Link](https://juangens.github.io/Juan_Martinez/)
-[![LinkedIn](https://www.linkedin.com/in/juan-martinez-63173363/)
+(https://juangens.github.io/Juan_Martinez/)
+(https://www.linkedin.com/in/juan-martinez-63173363/)
